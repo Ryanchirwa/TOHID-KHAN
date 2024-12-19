@@ -6,11 +6,11 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '917849917350';
+const defaultOwner = '0786313048';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
-const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || 'your number';  // put your number here
+const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '0786313048';  // put your number here
 
 const ownerlist = ownervb.split(';');
 
@@ -19,9 +19,9 @@ for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
-global.botname = process.env.BOTNAME || 'TOHID-KHAN';
-global.pairingNumber = process.env.BOT_NUMBER || 'your number';  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || 'session id';  // put your session id here
+global.botname = process.env.BOTNAME || 'bleu rainz';
+global.pairingNumber = process.env.BOT_NUMBER || '0786313048';  // put your number here
+global.SESSION_ID = process.env.SESSION_ID || 'PdZUHLaD#aAgAuKYKm3swaI5tAwVnmLSvve7lF4EWH8bgWWp-7uc';  // put your session id here
 
 global.mods = []
 global.prems = []
@@ -84,8 +84,8 @@ global.fgpyp = 'https://GitHub.com/Tohidkhan6332'
 global.fglog = 'https://i.imgur.com/M1BzE37.jpeg'
 global.thumb = fs.readFileSync('./assets/tohid.jpg')
 
-global.wait = '⏳'
-global.rwait = '⏳'
+global.wait = '🕟'
+global.rwait = '🕓'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌'

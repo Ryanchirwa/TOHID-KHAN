@@ -401,10 +401,10 @@ npm install && npm start
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-- **Star ⭐ the repo if you like TOHID-KHAN.**
+- **Star ⭐ the repo if you like GOJO-SATORU.**
 
 ## Main Developer
-<a href="https://github.com/Tohidkhan6332"><img src="https://github.com/Tohidkhan6332.png" width="250" height="250" alt="Tohidkhan6332"/></a>
+<a href="https://github.com/Ryanchirwa"><img src="https://files.catbox.moe/wdn1oa.jpg" width="250" height="250" alt="Tohidkhan6332"/></a>
   
 `TOHID-KHAN - By TohidTech`
 
@@ -422,6 +422,5 @@ npm install && npm start
   
 <p align="center">
   
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T)
 
 --------

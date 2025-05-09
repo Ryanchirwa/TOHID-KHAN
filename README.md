@@ -1,22 +1,22 @@
 
-#### MULTI DEVICE WHATSAPP BOT TOHID KHAN | STILL MANY HIDDEN COMMANDS
+#### MULTI DEVICE WHATSAPP BOT GOJO-SATORU😄| STILL MANY HIDDEN COMMANDS
 
 <p align="center">  
-  <a href="https://youtube.com/@tohidkhan_6332">
-    <img alt="TOHID" src="https://i.imgur.com/M1BzE37.jpeg">
+  <a href="https://youtube.com/@Ryanchirwa">
+    <img alt="GOJO" src="https://files.catbox.moe/9t2lp6.jpg">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Tohidkhan6332?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkhan6332?label=Followers&style=social"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID-KHAN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tohidkhan6332/TOHID-KHAN?&style=social"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID-KHAN/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Tohidkhan6332/TOHID-KHAN?style=social"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID-KHAN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tohidkhan6332/TOHID-KHAN?label=Watching&style=social"></a>
+<a href="https://github.com/Ryanchirwa?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Ryanchirwalabel=Followers&style=social"></a>
+<a href="https://github.com/Ryanchirwa/GOJO-SATORU/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ryanchirwa/GOJO-SATORU&style=social"></a>
+<a href="https://github.com/Ryanchirwa/GOJO-SATORU/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Ryanchirwa/GOJO-SATORUstyle=social"></a>
+<a href="https://github.com/Ryanchirwa/GOJO-SATORU/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ryanchirwa/GOJO-SATORU label=Watching&style=social"></a>
 </p>
 <p align="center">
   
 ----
 
- <p align="center"><img src="https://profile-counter.glitch.me/{TOHID-KHAN}/count.svg" alt="TohidTech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tohidkhan6332}/count.svg" /></p>
+ <p align="center"><imghttps://files.catbox.moe/wdn1oa.jpg"https:///{GOJO-SATORU}/count.svg" alt="TohidTech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tohidkhan6332}/count.svg" /></p>
 
 ----
 <h1 align="center"> EXTERNAL PLUGINS </h1>
